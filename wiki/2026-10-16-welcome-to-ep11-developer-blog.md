@@ -8,7 +8,7 @@
 
 We are excited to launch the official **IBM Enterprise PKCS#11 (EP11) Code Samples Repository and Developer Hub**!
 
-For teams securing mission-critical workloads across banking, enterprise infrastructure, and cloud environments, cryptographic hardware integration must be robust, performant, and secure against physical and logical threats. The EP11 API is the foundation of high-assurance cryptography on IBM hardware security modules (HSMs) and IBM Cloud Hyper Protect Crypto Services (HPCS).
+For teams securing mission-critical workloads across banking, enterprise infrastructure, and cloud environments, cryptographic hardware integration must be robust, performant, and secure against physical and logical threats. The EP11 API is the foundation of high-assurance cryptography on IBM hardware security modules (HSMs).
 
 ### Why this Repository?
 
@@ -22,7 +22,7 @@ Over the years, developers have asked for:
 In the coming weeks and months, we will be rolling out:
 * Complete C/C++ reference samples key gen, encrypt/decrypt, and sign/verify.
 * Quantum-safe cryptography samples demonstrating ML-KEM and ML-DSA (Dilithium / Kyber).
-* High-level language wrappers and integration guides for Java as well as other languages if anyone so desires them.
+* High-level language wrappers and integration guides for C as well as other languages if anyone so desires them.
 
 ### Get Involved!
 
