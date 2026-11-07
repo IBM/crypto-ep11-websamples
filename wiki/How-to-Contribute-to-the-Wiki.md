@@ -1,10 +1,10 @@
-# How to Contribute to the EP11 Developer Blog & Wiki
+# How to Contribute to the EP11 Developer Knowledge Base
 
 We welcome community members and IBM developers to contribute blog posts, technical deep-dives, and tutorials!
 
 ---
 
-### Authoring a New Blog Post
+### Authoring a New Post
 
 1. **Create your post file** in the `wiki/` directory using the naming convention:
    ```text

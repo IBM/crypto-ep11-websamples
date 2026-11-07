@@ -1,6 +1,6 @@
-# 🚀 The EP11 Developer Blog & Knowledge Base
+# 🚀 The EP11 Developer Knowledge Base
 
-Welcome to the **Enterprise PKCS#11 (EP11) Developer Blog**! This wiki is curated by the EP11 development team to provide in-depth technical guides, cryptographic architectural breakdowns, migration paths, and any other content that we can publish to make using EP11 easier.
+Welcome to the **Enterprise PKCS#11 (EP11) Developer Blog**!  Curated by the EP11 development team to provide in-depth technical guides, cryptographic architectural breakdowns, migration paths, and any other content that we can publish to make using EP11 easier.
 
 ---
 

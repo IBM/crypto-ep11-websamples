@@ -1,6 +1,6 @@
-# EP11 Developer Blog & GitHub Wiki
+# EP11 Developer Knowledge Base
 
-This directory stores the source markdown files for the repository's **GitHub Wiki (Blog)**.
+This directory stores the source markdown files for the repository's **GitHub Wiki**.
 
 ---
 
